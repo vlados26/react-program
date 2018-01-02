@@ -28,7 +28,6 @@ How to start react project:
 # dependencies
 /node_modules
 
-
 # testing
 /coverage
 
