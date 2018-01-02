@@ -46,10 +46,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 ```
-6. Create public -> index.html
+6. Create public -> index.html and 
           src    -> index.css + index.js
 
 7. Add in index.js imports
+```javascript
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+```
