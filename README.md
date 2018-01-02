@@ -8,6 +8,7 @@ How to start react project:
 3. npm init
 
 4. Add this code in package.json
+```javascript
 "scripts": {
   "start": "react-scripts start",
   "build": "react-scripts build",
@@ -19,8 +20,10 @@ How to start react project:
   "react-dom": "^16.2.0",
   "react-scripts": "1.0.17"
 }
+```
 
 5. Create .gitignore.txt with this code
+```javascript
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 # dependencies
 /node_modules
@@ -42,7 +45,7 @@ How to start react project:
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
+```
 6. Create public -> index.html
           src    -> index.css + index.js
 
